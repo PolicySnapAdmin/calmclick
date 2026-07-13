@@ -10,3 +10,6 @@ node_modules/
 .deploy-user.txt
 *.pem
 .env
+
+extension.zip
+
