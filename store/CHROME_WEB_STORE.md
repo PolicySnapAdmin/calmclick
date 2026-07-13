@@ -9,7 +9,7 @@ Use this when uploading at [Chrome Web Store Developer Dashboard](https://chrome
    - The zip root must contain `manifest.json` (our pack script does this).
 3. Fill the store listing using the copy below.
 4. Set **Privacy practices** + single-purpose description.
-5. Privacy policy URL: `https://policysnapadmin.github.io/calmclick/privacy.html`
+5. Privacy policy URL: `https://calmclicktool.github.io/calmclick/privacy.html`
 6. Submit for review (often 1–3 days, sometimes longer).
 
 ## Listing copy
@@ -43,8 +43,8 @@ Parents, grandparents, students, and anyone who wants a calm second opinion befo
 
 CalmClick is a helper, not a guarantee. When money or passwords are involved, verify with the company using a phone number you already trust.
 
-Full privacy policy: https://policysnapadmin.github.io/calmclick/privacy.html
-Local offline website: download from https://policysnapadmin.github.io/calmclick/#get
+Full privacy policy: https://calmclicktool.github.io/calmclick/privacy.html
+Local offline website: download from https://calmclicktool.github.io/calmclick/#get
 ```
 
 ### Category

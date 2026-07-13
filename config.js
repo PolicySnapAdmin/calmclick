@@ -5,5 +5,5 @@ window.CALMCLICK_CONFIG = {
   chromeStoreUrl: "",
   localZipUrl: "downloads/calmclick-offline.zip",
   extensionZipUrl: "downloads/calmclick-extension.zip",
-  githubUrl: "https://github.com/PolicySnapAdmin/calmclick"
+  githubUrl: "https://github.com/CalmClickTool/calmclick"
 };

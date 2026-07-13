@@ -4,7 +4,7 @@
   "short_name": "CalmClick",
   "version": "1.0.0",
   "description": "Right-click any link or selected text to check it in plain English. Free, private, no account.",
-  "homepage_url": "https://policysnapadmin.github.io/calmclick/",
+  "homepage_url": "https://calmclicktool.github.io/calmclick/",
   "permissions": ["contextMenus"],
   "action": {
     "default_title": "CalmClick",

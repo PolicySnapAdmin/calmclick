@@ -4,9 +4,11 @@
 
 Free, private tools that explain links, messages, and computer errors in plain English.
 
+Maintained under the **[CalmClickTool](https://github.com/CalmClickTool)** organization.
+
 | Surface | Best for |
 |--------|----------|
-| **[Website](https://policysnapadmin.github.io/calmclick/)** | Instant checks, sharing a link |
+| **[Website](https://calmclicktool.github.io/calmclick/)** | Instant checks, sharing a link |
 | **Local download** | Offline use, maximum control (recommended) |
 | **Chrome / Edge extension** | Right‑click any link while browsing |
 
@@ -16,9 +18,9 @@ Nothing you paste is uploaded. Checks run on your device.
 
 ## Public website
 
-**https://policysnapadmin.github.io/calmclick/**
+**https://calmclicktool.github.io/calmclick/**
 
-Source: this repository (GitHub Pages).
+Source: [github.com/CalmClickTool/calmclick](https://github.com/CalmClickTool/calmclick) (GitHub Pages).
 
 ---
 
@@ -66,7 +68,7 @@ Creates:
 
 ## Privacy
 
-See [privacy.html](https://policysnapadmin.github.io/calmclick/privacy.html).
+See [privacy.html](https://calmclicktool.github.io/calmclick/privacy.html).
 
 - No accounts, ads, or trackers  
 - No server-side analysis of pasted content  
